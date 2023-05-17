@@ -1,0 +1,54 @@
+game_slug;game_end_date;game_start_date;game_location;game_name;game_season;game_year
+beijing-2022;2022-02-20;2022-02-04;China;Beijing 2022;Winter;2022
+tokyo-2020;2021-08-08;2021-07-23;Japan;Tokyo 2020;Summer;2020
+pyeongchang-2018;2018-02-25;2018-02-08;Republic of Korea;PyeongChang 2018;Winter;2018
+rio-2016;2016-08-21;2016-08-05;Brazil;Rio 2016;Summer;2016
+sochi-2014;2014-02-23;2014-02-07;Russian Federation;Sochi 2014;Winter;2014
+london-2012;2012-08-12;2012-07-27;Great Britain;London 2012;Summer;2012
+vancouver-2010;2010-02-28;2010-02-12;Canada;Vancouver 2010;Winter;2010
+beijing-2008;2008-08-24;2008-08-08;China;Beijing 2008;Summer;2008
+turin-2006;2006-02-26;2006-02-10;Italy;Turin 2006;Winter;2006
+athens-2004;2004-08-29;2004-08-13;Greece;Athens 2004;Summer;2004
+salt-lake-city-2002;2002-02-24;2002-02-08;United States;Salt Lake City 2002;Winter;2002
+sydney-2000;2000-10-01;2000-09-15;Australia;Sydney 2000;Summer;2000
+nagano-1998;1998-02-22;1998-02-06;Japan;Nagano 1998;Winter;1998
+atlanta-1996;1996-08-05;1996-07-19;United States;Atlanta 1996;Summer;1996
+lillehammer-1994;1994-02-27;1994-02-12;Norway;Lillehammer 1994;Winter;1994
+barcelona-1992;1992-08-09;1992-07-25;Spain;Barcelona 1992;Summer;1992
+albertville-1992;1992-02-23;1992-02-08;France;Albertville 1992;Winter;1992
+seoul-1988;1988-10-02;1988-09-16;Republic of Korea;Seoul 1988;Summer;1988
+calgary-1988;1988-02-28;1988-02-13;Canada;Calgary 1988;Winter;1988
+los-angeles-1984;1984-08-12;1984-07-28;United States;Los Angeles 1984;Summer;1984
+sarajevo-1984;1984-02-19;1984-02-08;Yugoslavia;Sarajevo 1984;Winter;1984
+moscow-1980;1980-08-03;1980-07-19;USSR;Moscow 1980;Summer;1980
+lake-placid-1980;1980-02-24;1980-02-13;United States;Lake Placid 1980;Winter;1980
+montreal-1976;1976-07-31;1976-07-17;Canada;Montreal 1976;Summer;1976
+innsbruck-1976;1976-02-15;1976-02-04;Austria;Innsbruck 1976;Winter;1976
+munich-1972;1972-09-11;1972-08-26;Federal Republic of Germany;Munich 1972;Summer;1972
+sapporo-1972;1972-02-13;1972-02-02;Japan;Sapporo 1972;Winter;1972
+mexico-city-1968;1968-10-28;1968-10-12;Mexico;Mexico City 1968;Summer;1968
+grenoble-1968;1968-02-18;1968-02-06;France;Grenoble 1968;Winter;1968
+tokyo-1964;1964-10-24;1964-10-09;Japan;Tokyo 1964;Summer;1964
+innsbruck-1964;1964-02-09;1964-01-29;Austria;Innsbruck 1964;Winter;1964
+rome-1960;1960-09-11;1960-08-25;Italy;Rome 1960;Summer;1960
+squaw-valley-1960;1960-02-28;1960-02-18;United States;Squaw Valley 1960;Winter;1960
+melbourne-1956;1956-12-08;1956-11-21;Australia, Sweden;Melbourne 1956;Summer;1956
+cortina-d-ampezzo-1956;1956-02-05;1956-01-26;Italy;Cortina d'Ampezzo 1956;Winter;1956
+helsinki-1952;1952-08-03;1952-07-19;Finland;Helsinki 1952;Summer;1952
+oslo-1952;1952-02-25;1952-02-14;Norway;Oslo 1952;Winter;1952
+london-1948;1948-08-14;1948-07-29;Great Britain;London 1948;Summer;1948
+st-moritz-1948;1948-02-08;1948-01-30;Switzerland;St. Moritz 1948;Winter;1948
+berlin-1936;1936-08-16;1936-08-01;Germany;Berlin 1936;Summer;1936
+garmisch-partenkirchen-1936;1936-02-16;1936-02-06;Germany;Garmisch-Partenkirchen 1936;Winter;1936
+los-angeles-1932;1932-08-14;1932-07-30;United States;Los Angeles 1932;Summer;1932
+lake-placid-1932;1932-02-15;1932-02-04;United States;Lake Placid 1932;Winter;1932
+amsterdam-1928;1928-08-12;1928-05-17;Netherlands;Amsterdam 1928;Summer;1928
+st-moritz-1928;1928-02-19;1928-02-11;Switzerland;St. Moritz 1928;Winter;1928
+paris-1924;1924-07-27;1924-05-04;France;Paris 1924;Summer;1924
+chamonix-1924;1924-02-05;1924-01-25;France;Chamonix 1924;Winter;1924
+antwerp-1920;1920-09-12;1920-04-20;Belgium;Antwerp 1920;Summer;1920
+stockholm-1912;1912-07-27;1912-05-05;Sweden;Stockholm 1912;Summer;1912
+london-1908;1908-10-31;1908-04-27;Great Britain;London 1908;Summer;1908
+st-louis-1904;1904-11-24;1904-07-01;United States;St. Louis 1904;Summer;1904
+paris-1900;1900-10-28;1900-05-14;France;Paris 1900;Summer;1900
+athens-1896;1896-04-15;1896-04-06;Greece;Athens 1896;Summer;1896
